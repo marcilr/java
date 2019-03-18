@@ -1,0 +1,13 @@
+links.txt
+Created Mon Mar 18 07:08:05 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Java related links
+
+
+Links
+=====
+Unsupported major.minor version 52.0 [duplicate]
+Has java versions
+https://stackoverflow.com/questions/22489398/unsupported-major-minor-version-52-0
