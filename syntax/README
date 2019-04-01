@@ -5,6 +5,11 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+keytool/
+  Manages a keystore (database) of cryptographic keys, X.509 certificate chains,
+  and trusted certificates.
+  https://docs.oracle.com/javase/8/docs/technotes/tools/unix/keytool.html
+
 versions.txt
   Java versions
   https://stackoverflow.com/questions/22489398/unsupported-major-minor-version-52-0
